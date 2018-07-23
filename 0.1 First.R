@@ -7,7 +7,7 @@
   cat("\n\n---------------------------------------------------------------------------------------------------------------------\n")
   cat("--------------------------------------------------------------------------------------------------------------------- \n\n")
   
-  cat("Loading packages and sourcing files for IF-Model Stedin; on failure please reload packages\n
+  cat("Loading packages and sourcing files for []; on failure please reload packages\n
       Modify .Rprofile to change these settings\n\n")
   
   # Install required packages if not installed already
